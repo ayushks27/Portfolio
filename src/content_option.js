@@ -135,7 +135,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "purnenduraghavsrivastava@domain.com",
+    YOUR_EMAIL: "purnenduraghavsrivastava@gmail.com",
     YOUR_FONE: "(+91)7905709958",
     description: "I would be glad to hear from you. For any inquiries or professional opportunities, please feel free to send me a message, and I will respond at the earliest convenience.",
     YOUR_SERVICE_ID: "service_id",
