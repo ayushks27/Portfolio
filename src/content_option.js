@@ -73,62 +73,62 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "./1.jpeg",
         description: "Simplicity is the essence of a wise life.",
         link: "https://the-hidden-hue.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/500/?grayscale",
+        img: "./15.jpeg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://github.com/ayushks27/uber-ride-cancellation-prediction/tree/main",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "./16.jpeg",
         description: "Focus on the vital, discard the trivial.",
         link: "https://garden-grid.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/650/?grayscale",
+        img: "./10.jpeg",
         description: "A wise life is built on essentials, not excess.",
         link: "https://github.com/ayushks27/drras",
     },
     {
-        img: "https://picsum.photos/400/500/?grayscale",
+        img: "./17.jpeg",
         description: "Happiness blooms when you focus on what truly counts.",
         link: "https://drag-iq.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "./13.jpeg",
         description: "The simpler your life, the louder your wisdom speaks.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/500/?grayscale",
+        img: "./8.jpeg",
         description: "True freedom is living unburdened by the unimportant.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "./3.jpeg",
         description: "Let go of the trivial, embrace the vital.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "./7.jpeg",
         description: "True wisdom is knowing what to leave behind.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/500/?grayscale",
+        img: "./2.jpeg",
         description: "Mastery of life is mastering what truly matters.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "./14.jpeg",
         description: "Life becomes richer when you strip it to the essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "./5.jpeg",
         description: "Happiness comes from keeping only what truly counts.",
         link: "https://easyjobtracker.netlify.app/",
     },
