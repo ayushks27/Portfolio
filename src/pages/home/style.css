@@ -4,7 +4,7 @@ section {
     width: 100%;
     -webkit-transition: all .5s ease-in;
     -o-transition: all .5s ease-in;
-    transition: all .5s ease-in;
+    transition: none;
 }
 
 .who_am_I {
@@ -236,6 +236,6 @@ section {
     color: var(--text-color)
 }
 
-.intro_sec .h_bg-image {
+/* .intro_sec .h_bg-image {
     filter: saturate(0.5);
-}
+} */
