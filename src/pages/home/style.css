@@ -2,9 +2,9 @@ section {
     flex: 1 0 auto;
     position: relative;
     width: 100%;
-    -webkit-transition: all .5s ease-in;
+    /* -webkit-transition: all .5s ease-in;
     -o-transition: all .5s ease-in;
-    transition: none;
+    transition: none; */
 }
 
 .who_am_I {
