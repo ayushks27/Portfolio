@@ -20,6 +20,7 @@ const Headermain = () => {
           <Link  className="navbar-brand nav_ac" to="/">
             {logotext}
           </Link>
+          <div className="fill-box"></div>
           <div className="d-flex align-items-center">
           <Themetoggle />
           <button className="menu__button  nav_ac" onClick={handleToggle}>
