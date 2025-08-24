@@ -94,8 +94,12 @@ section {
 .intro_sec .h_bg-image {
     background-size: cover;
     background-position: center;
-    min-height: 700px;
+    height: 750px !important;     /* reduced height */
+    width: 37.5% !important;      /* custom width */
+    min-height: unset !important;
     position: relative;
+    filter: none !important;
+    margin-left: auto;              /* center horizontally */
 }
 
 .ac_btn {
@@ -196,9 +200,12 @@ section {
     .intro_sec .h_bg-image {
         height: 600px;
         min-height: 75vh;
-        margin-bottom: 30px;
+        width: 100% !important;
+        margin-bottom: 22.5px;
+        background-position: top center !important;
     }
     .intro_sec .h_bg-image .block {
+        margin: 0 auto;
         top: unset;
         bottom: 0;
         width: 100%;

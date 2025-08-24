@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop web apps",
     },
     description: "Hello! I design and build software that works efficiently, reliably, and with purpose.",
-    your_img_url: "./qqe.png",
+    your_img_url: "./ayushimg1a.jpg",
 };
 
 const dataabout = {
