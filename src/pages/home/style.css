@@ -199,6 +199,7 @@ section {
 @media (max-width:991.98px) {
     .intro_sec .h_bg-image {
         height: 600px;
+        aspect-ratio: 4 / 5;
         min-height: 75vh;
         width: 100% !important;
         margin-bottom: 22.5px;
